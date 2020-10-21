@@ -47,7 +47,13 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/mahmudul.jpg
-
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: font/Pacifico-Regular.ttf
+    - family: SourceSansPro
+      fonts:
+        - asset: font/SourceSansPro-Regular.ttf
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
